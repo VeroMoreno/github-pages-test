@@ -23,7 +23,7 @@ Por defecto Github pages publica en máster y en mi caso mi rama principal es ma
 Para modificarla tuve que accedera Settings del proyecto y en la parte de GitHub Pages modificar el source: Branch: main 
 
 
-**1. He hecho push pero no me carga la página**
+**2. He hecho push pero no me carga la página**
 
 gitHub pages no publicará si no le asignas un template. Tuve que elegir un "**Jekyll theme**" por defecto.
 
